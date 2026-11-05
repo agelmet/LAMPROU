@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/dr-lamprou-ofthalmiatros-icon.svg"
+ },
+ "source_md5": "e5e5bde6c3952dd1384da67bb3918534",
+ "version": "2ecd87f9",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "97a32281c224974c5e597a14b0b81b99"
+ ],
+ "made": "2026-11-05"
+}
